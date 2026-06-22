@@ -8,6 +8,10 @@
 
 如果你希望了解这些能力的更新， 欢迎订阅.
 
+## 参考
+
+本项目的灵感与结构参考自 [mattpocock/skills](https://github.com/mattpocock/skills).
+
 ## 目录说明
 
 ### core
